@@ -1,0 +1,30 @@
+______________________________________
+Data: 03-03-2021
+Deveria ter no caixa: R$ 116.00
+Tinha no caixa: R$: 100.00
+Foi retirado: R$: 0.00
+______________________________________
+Data: 04-03-2021
+Deveria ter no caixa: R$ 140.00
+Tinha no caixa: R$: 100.00
+Foi retirado: R$: 0.00
+______________________________________
+Data: 06-03-2021
+Deveria ter no caixa: R$ 100.00
+Tinha no caixa: R$: 100.00
+Foi retirado: R$: 0.00
+______________________________________
+Data: 08-03-2021
+Deveria ter no caixa: R$ 100.00
+Tinha no caixa: R$: 100.00
+Foi retirado: R$: 0.00
+______________________________________
+Data: 09-03-2021
+Deveria ter no caixa: R$ 230.00
+Tinha no caixa: R$: 100.00
+Foi retirado: R$: 100.00
+______________________________________
+Data: 12-03-2021
+Deveria ter no caixa: R$ 112.18
+Tinha no caixa: R$: 100.00
+Foi retirado: R$: 0.00

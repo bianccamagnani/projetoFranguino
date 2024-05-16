@@ -1,0 +1,21 @@
+______________________________________
+Data: MOUSSE DE LIMÃO
+Quantidade: 11
+______________________________________
+Data: BRAHMA LATÃO
+Quantidade: 10
+______________________________________
+Data: PEPSI 2L
+Quantidade: 10
+______________________________________
+Data: FRANGUINHO
+Quantidade: 10
+______________________________________
+Data: FRANGO
+Quantidade: 12
+______________________________________
+Data: FRAGUINHO
+Quantidade: 3
+______________________________________
+Data: COCA-COLA 2L
+Quantidade: 995
